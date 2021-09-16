@@ -26,4 +26,3 @@ This way results can be compared to ANSYS.
 Thank You.
 
 Johan Antonissen
-windhoos@gmail.com
